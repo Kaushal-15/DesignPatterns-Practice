@@ -117,7 +117,7 @@ This repository serves as my personal reference and learning journal.
 - [ ] Command Pattern
 - [ ] State Pattern
 - [ ] Builder Pattern
-- [ ] Factory Pattern
+- [x] Factory Pattern
 
 ---
 
