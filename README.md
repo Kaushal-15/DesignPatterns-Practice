@@ -50,7 +50,7 @@ Behavioral patterns focus on communication and responsibility between objects.
 Creational patterns focus on object creation mechanisms.
 
 - [ ] Singleton
-- [ ] Factory Method
+- [x] Factory Method
 - [ ] Abstract Factory
 - [ ] Builder
 - [ ] Prototype
@@ -104,7 +104,7 @@ This repository serves as my personal reference and learning journal.
 
 ## Tech Stack
 
-- Java
+- C++ (Cpp)
 - Object-Oriented Programming
 - Design Patterns (GoF)
 
