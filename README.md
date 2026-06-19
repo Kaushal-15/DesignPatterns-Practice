@@ -127,7 +127,6 @@ This repository serves as my personal reference and learning journal.
 - Gang of Four (GoF) Design Patterns
 - Head First Design Patterns
 - Coder Army
-- 
 
 ---
 
