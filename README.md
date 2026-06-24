@@ -49,7 +49,7 @@ Behavioral patterns focus on communication and responsibility between objects.
 
 Creational patterns focus on object creation mechanisms.
 
-- [ ] Singleton
+- [x] Singleton
 - [x] Factory Method
 - [ ] Abstract Factory
 - [ ] Builder
